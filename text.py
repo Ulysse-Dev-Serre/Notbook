@@ -1,0 +1,4 @@
+text = "I remember a scary thing that happened to me 10 years ago. I was with some friends in Quebec City, and we went to a water slide park, but it was closed. I didn’t go to water slide but We were trying to find something else to do. we found a kayak rafting activity in the area. The guide who was in the boat with us made us experience falling into the water. there was a lot of current in the water, and I got stuck in a corner of rocks under the water, and the boat, was stuck above me. Luckily, I had a life jacket because I almost lost consciousness, the rafting boat got free, and I flotation to resurface to breathe. I remember I lost a shoe and my contact lens, so I couldn't see anything for the rest of the activity."
+
+word_count = len(text.split())
+print(word_count)
